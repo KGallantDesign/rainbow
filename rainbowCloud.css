@@ -1,0 +1,126 @@
+
+img{
+	width: 1000px;
+	position: absolute;
+}
+
+
+#red {
+	width: 100px;
+	height: 400px;
+	background: red;
+  position:absolute;
+}
+#orange {
+	width: 100px;
+	height: 400px;
+	background: orange;
+  margin-left:100px;
+  position:absolute;
+}
+#yellow {
+	width: 100px;
+	height: 400px;
+	background: yellow;
+  margin-left:200px;
+  position:absolute;
+}
+#green {
+	width: 100px;
+	height: 400px;
+	background: green;
+  margin-left:300px;
+  position:absolute;
+}
+#blue {
+	width: 100px;
+	height: 400px;
+	background: blue;
+  margin-left:400px;
+  position:absolute;
+}
+#purple {
+	width: 100px;
+	height: 400px;
+	background: purple;
+  margin-left:500px;
+  position:absolute;
+}
+/*--------- rainbow ^ ------ */
+#circle {
+	width: 200px;
+	height: 200px;
+	background: white;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 350px;
+}
+#circle2 {
+	width: 200px;
+	height: 200px;
+	background: white;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 100px;
+}
+#circle3 {
+	width: 200px;
+	height: 200px;
+	background:white;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 200px;
+}
+#circle4 {
+	width: 200px;
+	height: 200px;
+	background:white;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 300px;
+}
+#circle5{
+width: 200px;
+height: 200px;
+background:white;
+-moz-border-radius: 100px;
+-webkit-border-radius: 100px;
+	border-radius: 100px;
+	position: absolute;
+	margin-top: 375px;
+	margin-left: 250px;
+}
+#circle6{
+	width: 200px;
+	height: 200px;
+	background:white;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+		border-radius: 100px;
+		position: absolute;
+		margin-top: 350px;
+		margin-left: 100px;
+	}
+
+#oval {
+	width: 400px;
+	height: 200px;
+	background:white;
+	-moz-border-radius: 200px / 100px;
+	-webkit-border-radius: 200px / 100px;
+    border-radius: 200px / 100px;
+    position: absolute;
+    margin-top: 375px;
+    margin-left: 325px;
+}
